@@ -1,0 +1,20 @@
+#Henri Song
+Harmonic Notes - 6
+Extra Notes - 3
+Max Interval - 4
+Range (Octaves) - 2
+Max Repeated Note Times - 3
+Key Tonic - C
+Key Quality - Major
+bar 1 - new melody(Henri Theme)
+bar 2 - transpose(bar 1, +2)
+bar 3 - bar 1
+bar 4 - new melody(Henri Ending)
+bar 5 - new melody(Henri Theme)
+bar 6 - new melody(Henri Theme)
+bar 7 - bar 5
+bar 8 - new melody(Henri Ending)
+bar 9 - bar 1
+bar 10 - bar 2
+bar 11 - bar 3
+bar 12 - bar 4

@@ -1,0 +1,54 @@
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\MelodyCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\MelodyCreator\obj\x86\Debug\MelodyCreator.Form1.resources
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\MelodyCreator\obj\x86\Debug\MelodyCreator.Properties.Resources.resources
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\MelodyCreator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\henri.ROM-TECH\AppData\Local\Temporary Projects\MelodyCreator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\obj\x86\Debug\MelodyCreator.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\obj\x86\Debug\MelodyCreator.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\bin\Debug\MelodyCreator.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\bin\Debug\MelodyCreator.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\obj\x86\Debug\MelodyCreator.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\obj\x86\Debug\MelodyCreator.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\MelodyCreator v1.3\MelodyCreator\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.csprojResolveAssemblyReference.cache
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Form1.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Properties.Resources.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\B - Henri\A - In Progress\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.csproj.GenerateResource.Cache
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.exe
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.pdb
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.exe
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\MelodyCreator.pdb
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\Sanford.Collections.dll
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\Sanford.Multimedia.dll
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\Sanford.Multimedia.Midi.dll
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\Sanford.Multimedia.Timers.dll
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\Sanford.Threading.dll
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\bin\Debug\Sanford.Multimedia.Midi.pdb
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.csprojResolveAssemblyReference.cache
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Form1.resources
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.Properties.Resources.resources
+C:\Henri\My Documents\Visual Studio 2012\Projects\MelodyCreator\MelodyCreator\obj\x86\Debug\MelodyCreator.csproj.GenerateResource.Cache
